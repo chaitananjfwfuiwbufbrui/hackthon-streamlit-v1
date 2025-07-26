@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(page_title="AI Content Generator", layout="wide")
-
+st.title("AI Content Generator")
 st.markdown("""
 <style>
 .bg-box {
